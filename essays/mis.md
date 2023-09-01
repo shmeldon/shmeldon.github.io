@@ -10,7 +10,7 @@ labels:
   - MIS
 ---
 
-## Why I chose MIS
+## Why I chose Management Information Systems
 
  During my first two years of college, I struggled with finding the right major for me. Although I was inclined toward business-related fields, I was uncertain about the specific direction to take within that broad category. I initially considered economics, then accounting, and finally finance. Briefly, I also entertained the idea of studying computer science and even enrolled in some introductory classes. Despite these explorations, none of the subjects ignited the passion I was seeking, leaving me somewhat directionless and lost in life.
 
