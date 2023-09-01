@@ -4,7 +4,7 @@ type: essay
 title: "Why Management Information Systems"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-31
-published: false
+published: true
 labels:
   - ITM352
   - MIS
