@@ -4,6 +4,7 @@ type: project
 image: img/micromouse/micromouse-square.jpg
 title: "GOAT"
 date: 2023-08-30
+published: false
 labels:
   - Robotics
   - Arduino
