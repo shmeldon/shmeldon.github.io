@@ -12,8 +12,7 @@ labels:
 
 # My First Experience with WODs
 --- 
-
-## WOD 1 
+## WOD 1
 In the first WOD, BrowserHistory1, I was initially quite intimidated to start. However, once I got going, things went smoothly and I learned a lot. Completing the screencast with my narrated demonstration took me between 1.5 to 2 hours with a couple attempts inbetween. To begin, I first read through the instructions and then watched Professor Dan's screencast. Watching the screencast first provided me with a general structure and guidelines for tackling the problem. After that, I attempted the problem on my own. Whenever I encountered something I didn't know how to do, I followed Professor Dan's advice to "RTFM." I think the benefit of this learn-as-you-go approach for me is that it immediately highlights my gaps in knowledge, allowing me to quickly find solutions. For example, I could easily look up "how to insert a hyperlink" when I realized I didn't know how to do it. Additionally, having to narrate a live demonstration forced me to fully understand the basic aspects of HTML and CSS. You can't narrate something you don't understand, so this requirement added an extra layer of depth to my learning.
 --- 
 ## WOD 2 & 3
