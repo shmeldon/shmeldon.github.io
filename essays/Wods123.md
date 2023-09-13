@@ -2,7 +2,7 @@ layout: essay
 type: essay
 title: "E1: UI Basics WODs 1,2,3"
 # All dates must be YYYY-MM-DD format!
-date: 2023-09-07
+date: 2023-09-13
 published: true
 labels:
   - ITM352
