@@ -1,3 +1,4 @@
+--- 
 layout: essay
 type: essay
 title: "E1: UI Basics WODs 1,2,3"
